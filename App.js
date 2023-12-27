@@ -14,7 +14,7 @@
     </div>
 </div>
 </div>
- */}
+*/}
 
 const element1 = React.createElement("h1",{id:"parent"},
     React.createElement("h1",{id:"child"},[React.createElement("h1",{},'sib1'),React.createElement("h1",{},'sib2')]

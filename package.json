@@ -1,0 +1,21 @@
+{
+  "name": "react-first",
+  "version": "1.0.0",
+  "description": "this is my first react project ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "namastereact"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Praveen Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
